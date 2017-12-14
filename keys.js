@@ -1,4 +1,3 @@
-var Twitter = require('twitter');
 
 var accessKey = {
     twitterKey: {
@@ -7,6 +6,10 @@ var accessKey = {
     access_token: '938586660240945152-RI2KWGuaFQ7kPiFM00LCRt7HOrF6q1S',
     access_token_secret: 'Lje8bMKLYiPbq8arY3bsQlKVX28BG805cY6d1rn4e0sUb'
     },
+    spotifyKey: {
+
+    },
+    omdbKey: '81d6b13'
 }
 
 module.exports = accessKey;
